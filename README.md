@@ -176,6 +176,7 @@ This repository focuses on **useful, recognized, and widely discussed tools** ac
 |---|---|---|
 | Warp | AI terminal with command suggestions, explanations, and workflow acceleration | [🔗](https://www.warp.dev/) |
 | Claude Code | Command-line coding assistant for implementing, editing, and exploring codebases | [🔗](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview) |
+| Toprank | Open-source Claude Code plugin and skill set for SEO, Google Ads, content writing, and CMS optimization workflows | [🔗](https://github.com/nowork-studio/toprank) |
 | Aider | Repo-aware terminal pair programmer that edits code directly from chat prompts | [🔗](https://github.com/paul-gauthier/aider) |
 | Gemini CLI | Google’s terminal agent for coding, scripting, and developer productivity tasks | [🔗](https://github.com/google-gemini/gemini-cli) |
 | GitHub Copilot CLI | Command-line AI help for shell commands, explanations, and developer tasks | [🔗](https://github.com/cli/cli/tree/trunk/pkg/cmd/copilot) |
