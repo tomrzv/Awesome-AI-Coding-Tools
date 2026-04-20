@@ -20,6 +20,7 @@ AI coding tools are evolving fast, but most lists are bloated, outdated, or fill
 This repository focuses on **useful, recognized, and widely discussed tools** across the modern AI development workflow:
 
 - AI editors and coding assistants
+- **[OpenMagic](https://github.com/Kalmuraee/OpenMagic)** - AI-powered coding toolbar for any web app. Captures element context, previews diffs, and applies approved changes through a reverse proxy.
 - app and website generators
 - coding agents
 - code review and refactoring tools
