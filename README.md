@@ -57,6 +57,7 @@ This repository focuses on **useful, recognized, and widely discussed tools** ac
 | Tools | Used For | 🔗 |
 |---|---|---|
 | Cursor | AI-first code editor built for chat, codebase understanding, edits, and agentic workflows | [🔗](https://cursor.com) |
+| OpenMagic | Browser-side AI coding toolbar for live web app edits with context capture and approved diffs | [🔗](https://github.com/Kalmuraee/OpenMagic) |
 | Windsurf | AI coding environment with agentic flows, autocomplete, and deep repo awareness | [🔗](https://windsurf.com) |
 | GitHub Copilot | Popular AI coding assistant for code suggestions, chat, edits, and multi-file help inside IDEs | [🔗](https://github.com/features/copilot) |
 | Claude Code | Terminal-first coding assistant from Anthropic for editing, refactoring, and autonomous implementation | [🔗](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview) |
