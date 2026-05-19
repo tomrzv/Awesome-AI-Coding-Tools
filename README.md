@@ -178,6 +178,7 @@ This repository focuses on **useful, recognized, and widely discussed tools** ac
 | Claude Code | Command-line coding assistant for implementing, editing, and exploring codebases | [🔗](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview) |
 | Aider | Repo-aware terminal pair programmer that edits code directly from chat prompts | [🔗](https://github.com/paul-gauthier/aider) |
 | Gemini CLI | Google’s terminal agent for coding, scripting, and developer productivity tasks | [🔗](https://github.com/google-gemini/gemini-cli) |
+| agenttrace | Local CLI/TUI for inspecting AI coding agent session logs, costs, tokens, latency, failures, and health | [🔗](https://github.com/luoyuctl/agenttrace) |
 | GitHub Copilot CLI | Command-line AI help for shell commands, explanations, and developer tasks | [🔗](https://github.com/cli/cli/tree/trunk/pkg/cmd/copilot) |
 | ShellGPT | CLI tool for generating shell commands, scripts, and quick system answers with AI | [🔗](https://github.com/TheR1D/shell_gpt) |
 | Amazon Q Developer CLI | AWS-oriented AI assistant for terminal workflows, commands, and scripting | [🔗](https://docs.aws.amazon.com/amazonq/latest/qdeveloper-ug/command-line.html) |
