@@ -149,6 +149,7 @@ This repository focuses on **useful, recognized, and widely discussed tools** ac
 | CodeRabbit | AI pull request reviewer that explains diffs, flags issues, and suggests improvements | [🔗](https://coderabbit.ai/) |
 | Greptile | AI review bot for understanding code changes in the context of the full codebase | [🔗](https://greptile.com/code-review-bot) |
 | Qodo PR Agent | Open-source PR review agent that adds summaries, feedback, and contextual review comments | [🔗](https://github.com/qodo-ai/pr-agent) |
+| Kodus | Open-source AI code review platform for reviewing pull requests with repository context, custom rules, and BYOK support. | [🔗](https://kodus.io/) |
 | What The Diff | AI tool for summarizing pull requests and helping teams review code changes faster | [🔗](https://whatthediff.ai/) |
 | Sweep | AI agent that can fix issues and open pull requests directly from GitHub tasks | [🔗](https://github.com/sweepai/sweep) |
 | Pixee | Security-focused PR assistant that proposes safer fixes and catches risky patterns early | [🔗](https://pixee.ai) |
