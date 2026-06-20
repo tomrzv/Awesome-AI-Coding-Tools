@@ -121,6 +121,7 @@ This repository focuses on **useful, recognized, and widely discussed tools** ac
 | Context7 | Documentation context server for giving LLMs and code editors fresh, relevant technical docs | [🔗](https://context7.com/) |
 | Pieces | Snippet capture and searchable memory tool for developers working across projects and editors | [🔗](https://pieces.app/) |
 | SpecStory | Extension for preserving, summarizing, and sharing AI coding conversations and task context | [🔗](https://specstory.com/) |
+| ax | Local-first recall and telemetry graph for AI coding sessions, tool calls, skills, and costs | [🔗](https://github.com/Necmttn/ax) |
 | Memory Bank | Structured memory system for long-running Cursor workflows and multi-step development tasks | [🔗](https://github.com/vanzan01/cursor-memory-bank) |
 
 ---
