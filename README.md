@@ -75,6 +75,7 @@ This repository focuses on **useful, recognized, and widely discussed tools** ac
 | Cline | VS Code agent that can inspect files, write code, run commands, and iterate on tasks | [🔗](https://github.com/cline/cline) |
 | OpenHands | Open-source software engineering agent for autonomous coding tasks and development workflows | [🔗](https://opendevin.ai/) |
 | GPT Engineer | AI agent for generating application scaffolds and implementation plans from prompts | [🔗](https://github.com/AntonOsika/gpt-engineer) |
+| Hephaestus | Local runtime for routing coding agents and skills across Claude Code, Codex, and Cursor workflows | [🔗](https://github.com/agentlas-ai/Hephaestus) |
 | Devin | Autonomous AI software engineer focused on executing multi-step coding tasks | [🔗](https://devin.ai/) |
 | Fine | AI development agent designed to understand requirements and deliver implementation with minimal supervision | [🔗](https://fine.dev/) |
 | Pythagora | Conversational coding agent for building full-stack applications from ideas and requirements | [🔗](https://pythagora.ai/) |
