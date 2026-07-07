@@ -122,6 +122,7 @@ This repository focuses on **useful, recognized, and widely discussed tools** ac
 | Pieces | Snippet capture and searchable memory tool for developers working across projects and editors | [🔗](https://pieces.app/) |
 | SpecStory | Extension for preserving, summarizing, and sharing AI coding conversations and task context | [🔗](https://specstory.com/) |
 | Memory Bank | Structured memory system for long-running Cursor workflows and multi-step development tasks | [🔗](https://github.com/vanzan01/cursor-memory-bank) |
+| Tree Ring Memory | Local-first memory lifecycle framework for AI coding agents, with recall, audit, forgetting, and source-linked evidence | [🔗](https://github.com/TerminallyLazy/Tree-Ring-Memory) |
 
 ---
 
