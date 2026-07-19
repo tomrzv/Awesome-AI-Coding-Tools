@@ -129,6 +129,7 @@ This repository focuses on **useful, recognized, and widely discussed tools** ac
 
 | Tools | Used For | 🔗 |
 |---|---|---|
+| Aura | Open-source VCS layer for reviewing AI-agent code changes with semantic diffs, provenance, and intent checks | [🔗](https://github.com/Naridon-Inc/aura) |
 | Qodo | AI code review and test generation platform focused on quality, reasoning, and maintainability | [🔗](https://www.qodo.ai/) |
 | DeepSource | Automated code review with static analysis, quality checks, and technical debt tracking | [🔗](https://deepsource.io/) |
 | Codacy | Code quality platform for automated review, maintainability checks, and engineering visibility | [🔗](https://www.codacy.com/) |
