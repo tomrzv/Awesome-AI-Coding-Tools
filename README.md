@@ -148,6 +148,7 @@ This repository focuses on **useful, recognized, and widely discussed tools** ac
 |---|---|---|
 | CodeRabbit | AI pull request reviewer that explains diffs, flags issues, and suggests improvements | [🔗](https://coderabbit.ai/) |
 | Greptile | AI review bot for understanding code changes in the context of the full codebase | [🔗](https://greptile.com/code-review-bot) |
+| heygrc | GitHub App for compliance-focused PR review (ISO 27001, SOC 2, GDPR, EU AI Act); cites controls; public repos always free | [🔗](https://heygrc.com) |
 | Qodo PR Agent | Open-source PR review agent that adds summaries, feedback, and contextual review comments | [🔗](https://github.com/qodo-ai/pr-agent) |
 | What The Diff | AI tool for summarizing pull requests and helping teams review code changes faster | [🔗](https://whatthediff.ai/) |
 | Sweep | AI agent that can fix issues and open pull requests directly from GitHub tasks | [🔗](https://github.com/sweepai/sweep) |
