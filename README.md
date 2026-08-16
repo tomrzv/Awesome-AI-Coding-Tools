@@ -159,6 +159,7 @@ This repository focuses on **useful, recognized, and widely discussed tools** ac
 
 | Tools | Used For | 🔗 |
 |---|---|---|
+| Agent QA | The self-improving QA agent for software teams, with natural-language web/mobile tests, persistent test memory, and self-healing flows | [🔗](https://github.com/vostride/agent-qa) |
 | Qodo | AI-generated tests and code quality support for safer releases | [🔗](https://www.qodo.ai/) |
 | Mabl | AI-native test automation platform for browser testing and regression detection | [🔗](https://www.mabl.com/) |
 | Applitools | Visual AI testing for catching UI regressions across browsers and devices | [🔗](https://applitools.com/) |
