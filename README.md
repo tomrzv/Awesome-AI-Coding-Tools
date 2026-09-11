@@ -241,6 +241,7 @@ This repository focuses on **useful, recognized, and widely discussed tools** ac
 | Pixee | Automated AI fixer for code security issues and risky pull request changes | [🔗](https://pixee.ai/) |
 | CodeQL | GitHub’s semantic code analysis engine for deep security and correctness checks | [🔗](https://codeql.github.com/) |
 | JFrog Xray | Security and compliance scanning for artifacts, packages, and DevOps pipelines | [🔗](https://jfrog.com/xray/) |
+| agy-auto | Auto-permission engine and PreToolUse security firewall for Google Antigravity CLI agents | [🔗](https://github.com/onkarbadve/agy-auto) |
 
 ---
 
