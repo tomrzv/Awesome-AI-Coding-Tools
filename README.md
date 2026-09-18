@@ -79,6 +79,7 @@ This repository focuses on **useful, recognized, and widely discussed tools** ac
 | Fine | AI development agent designed to understand requirements and deliver implementation with minimal supervision | [🔗](https://fine.dev/) |
 | Pythagora | Conversational coding agent for building full-stack applications from ideas and requirements | [🔗](https://pythagora.ai/) |
 | Factory | AI development platform for accelerating repetitive engineering work across teams | [🔗](https://factory.ai/) |
+| Orkas | Open-source, local-first desktop AI workforce coordinated by a Commander through one chat. Coordinates local coding agents. | [🔗](https://orkas.ai/?source=gh_tomrzv) |
 
 ---
 
