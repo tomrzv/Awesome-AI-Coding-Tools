@@ -79,6 +79,7 @@ This repository focuses on **useful, recognized, and widely discussed tools** ac
 | Fine | AI development agent designed to understand requirements and deliver implementation with minimal supervision | [🔗](https://fine.dev/) |
 | Pythagora | Conversational coding agent for building full-stack applications from ideas and requirements | [🔗](https://pythagora.ai/) |
 | Factory | AI development platform for accelerating repetitive engineering work across teams | [🔗](https://factory.ai/) |
+| Wayari | Coordinates Claude Code and Codex in isolated worktrees, runs repository checks, and returns reviewed pull requests for human approval | [🔗](https://wayari.com/) |
 
 ---
 
