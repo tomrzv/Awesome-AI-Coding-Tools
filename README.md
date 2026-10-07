@@ -196,6 +196,7 @@ This repository focuses on **useful, recognized, and widely discussed tools** ac
 | Figma AI | Native AI features inside Figma for content generation, editing, and design workflows | [🔗](https://figma.com/ai) |
 | TeleportHQ | Visual front-end platform for converting UI designs into usable code | [🔗](https://teleporthq.io/) |
 | Kombai | AI design-to-code tool for turning design assets into production-ready UI implementations | [🔗](https://kombai.com/) |
+| UiChemy | Turns Figma designs and AI builds into native, editable WordPress pages. | [🔗](https://uichemy.com) |
 
 ---
 
