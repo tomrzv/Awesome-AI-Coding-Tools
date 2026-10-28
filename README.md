@@ -96,6 +96,7 @@ This repository focuses on **useful, recognized, and widely discussed tools** ac
 | Databutton | AI-powered platform for building apps and internal tools from plain English instructions | [🔗](https://databutton.com/) |
 | Durable | AI website and business app builder for launching simple products and services quickly | [🔗](https://durable.co/) |
 | 10Web | AI WordPress builder for generating websites, content, and layouts with minimal setup | [🔗](https://10web.io/) |
+| AppWizzy | AI web app builder with runtime templates, dedicated cloud development VMs, and Git-backed source editing | [🔗](https://appwizzy.com/) |
 
 ---
 
